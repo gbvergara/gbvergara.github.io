@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+h1{
+    color : rgb(240, 241, 245);
+    font-size : 100px;
+    font-style: italic;
+    text-decoration: dotted;
+    background-color: black;
+    border: 2px dotted violet;
+    text-align: ;
+    border-left: 2px rgb(0, 19, 20);
+}
+
+p{
+    color : rgb(112, 83, 129);
+    font-weight : bold;
+    font-style: italic;
+    background-color: rgb(143, 112, 112);
+    font-family: "Playfair Display", serif;
+}
+part1{
+    color : rgb(233, 210, 235);
+    font-style: italic;
+}
+myspan{
+    color :rgb(210, 181, 238);
+    text-decoration-line: underline;
+}
+
+body{
+    background-color: rgb(24, 24, 7);
+    background-image: url(images/download.jpg);
+    background-size: cover;
+}
