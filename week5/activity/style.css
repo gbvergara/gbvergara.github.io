@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f6fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.feature-bar {
+  display: flex;
+  gap: 30px;
+  padding: 20px 40px;
+  background: #fff;
+  border-radius: 30px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.feature {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  color: #1e293b;
+}
+
+.feature:hover {
+  color: #2563eb;
+  background-color: #2563eb;
+  color: #fff;
+}
+
+.feature span {
+  font-size: 26px;
+}
+
+.feature p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 500;
+}

@@ -1,0 +1,42 @@
+.mdi{
+    color: rgb(68, 126, 116);
+}
+.card{
+    width: 25%;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: plum;
+}
+
+.card:hover{
+    box-shadow: 7px 7px 0 0 rgb(83, 26, 83);
+    background-color: rgb(235, 198, 235);
+}
+
+h2, p{
+    margin:0%;
+    padding-bottom: 20px;
+}
+
+.card-header{
+    display: flex;
+    border-bottom: 1px solid rgb(199, 143, 199);
+    margin-bottom:  10px;
+    padding-bottom: 10px;
+}
+
+.btn{
+    border: none;
+    background: rgb(136, 66, 136);
+    color: rgb(0, 43, 54);
+    padding: 10px;
+    border-radius: 100px ;
+}
+
+.btn:hover{
+    background: plum;
+    background: rgb(206, 156, 206);
+    cursor: pointer;
+}
+
