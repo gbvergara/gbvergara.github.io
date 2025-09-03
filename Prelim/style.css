@@ -1,0 +1,44 @@
+body{
+    margin:0;
+}
+h3, h2{
+    margin: 10px;
+}
+
+.header{
+    display: flex;
+    background: #212529;
+    height: 50px;
+    color: white;
+    padding: 10px;
+}
+.right-header{
+    display: flex;
+    margin-left: auto;
+    margin-top: 4px;
+}
+
+.hub{
+    margin: 10px;
+    background-color: #198753;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+img{
+    width: 60%;
+}
+
+.card-form{
+    display: flex;
+    background-color: #e6e0e0;
+    height: 30%;
+    text-align: center;
+    padding: 
+}
+.h4{
+    padding: 50px;
+    text-align: center;
+    t
+}
